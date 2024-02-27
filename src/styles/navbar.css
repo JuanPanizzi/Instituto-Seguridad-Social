@@ -1,0 +1,12 @@
+.active{
+    color: blueviolet;
+}
+.navlink{
+    text-decoration: none;
+    color: black
+}
+.navlink:hover{
+    font-weight: 600;
+    text-decoration: underline;
+
+}
